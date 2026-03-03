@@ -16,6 +16,6 @@ class Solution:
                 m=temp*int(num)
                 st.append(m)
         return "".join(st)
-            
+
 
         
