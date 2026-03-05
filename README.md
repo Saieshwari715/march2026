@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2643-row-with-maximum-ones](https://github.com/Saieshwari715/march2026/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Saieshwari715/march2026/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
