@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2643-row-with-maximum-ones](https://github.com/Saieshwari715/march2026/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/Saieshwari715/march2026/tree/master/2643-row-with-maximum-ones) |
+## Hash Table
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
