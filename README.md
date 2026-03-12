@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Saieshwari715/march2026/tree/master/0038-count-and-say) |
 | [0394-decode-string](https://github.com/Saieshwari715/march2026/tree/master/0394-decode-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Stack
