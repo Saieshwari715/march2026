@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saieshwari715/march2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Saieshwari715/march2026/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Saieshwari715/march2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
