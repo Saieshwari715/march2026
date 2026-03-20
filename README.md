@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Saieshwari715/march2026/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Saieshwari715/march2026/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saieshwari715/march2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
