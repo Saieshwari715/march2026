@@ -82,17 +82,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
