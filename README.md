@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Saieshwari715/march2026/tree/master/0038-count-and-say) |
+| [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Saieshwari715/march2026/tree/master/0394-decode-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
