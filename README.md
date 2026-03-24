@@ -79,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Saieshwari715/march2026/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saieshwari715/march2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saieshwari715/march2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Depth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
