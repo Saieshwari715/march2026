@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Saieshwari715/march2026/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/Saieshwari715/march2026/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saieshwari715/march2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 ## Graph Theory
