@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/march2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saieshwari715/march2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
