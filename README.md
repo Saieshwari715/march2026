@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/march2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Saieshwari715/march2026/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/march2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saieshwari715/march2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/march2026/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saieshwari715/march2026/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
