@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saieshwari715/march2026/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Saieshwari715/march2026/tree/master/0038-count-and-say) |
 | [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
@@ -110,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saieshwari715/march2026/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saieshwari715/march2026/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
