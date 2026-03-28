@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Saieshwari715/march2026/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Saieshwari715/march2026/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/march2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Saieshwari715/march2026/tree/master/0643-maximum-average-subarray-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saieshwari715/march2026/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Saieshwari715/march2026/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
