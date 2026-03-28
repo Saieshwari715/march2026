@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Saieshwari715/march2026/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saieshwari715/march2026/tree/master/0005-longest-palindromic-substring) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saieshwari715/march2026/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
