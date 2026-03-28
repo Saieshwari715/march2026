@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saieshwari715/march2026/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Saieshwari715/march2026/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Saieshwari715/march2026/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Saieshwari715/march2026/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Saieshwari715/march2026/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Saieshwari715/march2026/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Saieshwari715/march2026/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Saieshwari715/march2026/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Saieshwari715/march2026/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -133,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
