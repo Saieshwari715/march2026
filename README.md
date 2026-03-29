@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saieshwari715/march2026/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Saieshwari715/march2026/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/march2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Saieshwari715/march2026/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Saieshwari715/march2026/tree/master/0695-max-area-of-island) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Saieshwari715/march2026/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saieshwari715/march2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Saieshwari715/march2026/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Saieshwari715/march2026/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Saieshwari715/march2026/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saieshwari715/march2026/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saieshwari715/march2026/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saieshwari715/march2026/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Saieshwari715/march2026/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Saieshwari715/march2026/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Backtracking
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Saieshwari715/march2026/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/march2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Saieshwari715/march2026/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
