@@ -21,8 +21,8 @@ class Solution:
             for j in range(i+1,len(nums)):
                
                 if i!=j and abs(nums[i]-nums[j])==k:
-                    p=tuple(sorted([nums[i],nums[j]]))
-                    seen.add(p)
+                    seen.add(tuple(sorted((nums[i], nums[j]))))
+                   
 
         return len(seen)
 
