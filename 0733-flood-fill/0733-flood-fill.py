@@ -53,7 +53,7 @@ class Solution:
 
 
 
-        original=image[sr][sc]
+        '''original=image[sr][sc]
         rows,cols=len(image),len(image[0])
         if original==color:
             return image
@@ -67,7 +67,7 @@ class Solution:
             dfs(r,c+1)
             dfs(r,c-1)
         dfs(sr,sc)
-        return image
+        return image'''
 
 
 
